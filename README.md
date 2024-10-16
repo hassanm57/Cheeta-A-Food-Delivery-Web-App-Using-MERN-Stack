@@ -1,7 +1,8 @@
 
 # Cheeta: Your Ultimate Food Delivery Solution
 
-![Cheeta Logo](https://example.com/logo.png)  *(Replace with actual logo URL)*
+![WhatsApp Image 2024-05-01 at 20 58 03_77f3fd0a](https://github.com/user-attachments/assets/8d91f3ac-4934-4135-991d-edb10ecaee22)
+
 
 Cheeta is a dynamic and user-friendly web application designed to revolutionize the food delivery experience. Inspired by popular platforms like Foodpanda, Cheeta offers seamless access to a diverse range of cuisines and stores near you. With Cheeta, your favorite meals are just a click away!
 
